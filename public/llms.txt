@@ -1,0 +1,19 @@
+# Sunyaverse
+
+> Sunyaverse (Sunyaverse Pty Ltd) is a technology consulting company in Canberra, ACT, Australia. It designs, builds and runs software, cloud, data and digital marketing technology systems for small and medium businesses, community organisations and government-adjacent teams. Tagline: From zero, everything.
+
+Contact: hello@sunyaverse.com.au · Website: https://sunya-verse.com
+
+## Services
+- [Software & app development](https://sunya-verse.com/services/software-development-canberra/): Custom web apps, mobile apps and business systems, designed around the way your business actually works.
+- [Cloud & IT infrastructure](https://sunya-verse.com/services/cloud-it-infrastructure-canberra/): Microsoft 365, Google Workspace, Azure and AWS, set up securely and sized to your business.
+- [Data & asset analytics](https://sunya-verse.com/services/data-analytics-asset-management/): Turn spreadsheets into dashboards and decisions, with clean data you can trust.
+- [Digital marketing technology](https://sunya-verse.com/services/digital-marketing-technology/): The systems behind your marketing: websites, CRM, email and analytics that work together.
+- [IT strategy & consulting](https://sunya-verse.com/services/it-strategy-consulting-canberra/): Independent advice on what to buy, build or retire, with a roadmap and budget you can act on.
+- [Managed IT & cyber security](https://sunya-verse.com/services/managed-it-cyber-security-canberra/): We look after your systems day to day and keep them secure against the Essential Eight.
+
+## Company
+- [About](https://sunya-verse.com/about/): founded by engineer Dibas Paudel; the name comes from śūnya, Sanskrit and Nepali for zero.
+- [Ventures](https://sunya-verse.com/ventures/): Whats Happening Australia (marketing, events platform) and Pirka (hospitality, Canberra food truck).
+- Clients include 365 Migration Hub, Sanatan Samaj Australia and Skippy Education.
+- [Insights](https://sunya-verse.com/insights/) · [Careers](https://sunya-verse.com/careers/) · [Contact](https://sunya-verse.com/contact/)
