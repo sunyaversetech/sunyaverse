@@ -29,7 +29,7 @@ export default function TermsPage() {
       <section>
         <div className="wrap prose lgl">
           <p>
-            {"These terms apply to your use of this website, operated by Sunyaverse Pty Ltd (ABN [to be added]). By using the site you agree to them."}
+            {"These terms apply to your use of this website, operated by Sunyaverse Pty Ltd (ABN 40 696 732 840). By using the site you agree to them."}
           </p>
           <h2>Information on this site</h2>
           <p>

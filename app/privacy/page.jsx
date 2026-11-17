@@ -29,7 +29,7 @@ export default function PrivacyPage() {
       <section>
         <div className="wrap prose lgl">
           <p>
-            {"Sunyaverse Pty Ltd (ABN [to be added]) (\"Sunyaverse\", \"we\", \"us\") respects your privacy. This policy explains how we handle personal information in line with the "}
+            {"Sunyaverse Pty Ltd (ABN 40 696 732 840) (\"Sunyaverse\", \"we\", \"us\") respects your privacy. This policy explains how we handle personal information in line with the "}
             <strong>Privacy Act 1988 (Cth)</strong>
             {" and the Australian Privacy Principles."}
           </p>

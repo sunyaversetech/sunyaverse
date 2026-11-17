@@ -78,7 +78,7 @@ export default function SiteFooter() {
           <span>
             {"© "}
             <Year />
-            {" Sunyaverse Pty Ltd · ABN [to be added] · Canberra, ACT"}
+            {" Sunyaverse Pty Ltd · ABN 40 696 732 840 · Canberra, ACT"}
           </span>
           <span>
             <Link href="/privacy/">Privacy</Link>
