@@ -64,7 +64,7 @@ export default function PrivacyPage() {
           <h2>Access, correction and complaints</h2>
           <p>
             {"You can ask to access or correct your personal information, or make a complaint, by emailing "}
-            <strong>privacy@sunyaverse.com.au</strong>
+            <strong>hello@sunyaverse.com.au</strong>
             {". We will respond within 30 days. If you are not satisfied, you can contact the Office of the Australian Information Commissioner (oaic.gov.au)."}
           </p>
         </div>

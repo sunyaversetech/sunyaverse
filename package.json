@@ -2,7 +2,7 @@
   "name": "sunyaverse-website",
   "version": "1.0.0",
   "private": true,
-  "description": "Sunyaverse website (sunya-verse.com), built with Next.js",
+  "description": "Sunyaverse website (sunyaverse.com.au), built with Next.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

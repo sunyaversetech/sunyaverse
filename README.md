@@ -1,6 +1,6 @@
 # Sunyaverse website (Next.js)
 
-The Sunyaverse website, **sunya-verse.com**, built with Next.js (App Router). It keeps the same design, pages, URLs and SEO as the HTML site, and adds:
+The Sunyaverse website, **sunyaverse.com.au**, built with Next.js (App Router). It keeps the same design, pages, URLs and SEO as the HTML site, and adds:
 
 - **Cal.com booking** for the free consultation. Every "Book a free consultation" button opens the Cal.com pop-up, and the contact page has the calendar built in.
 - **A working contact form** that emails each enquiry to you. Job applications go to the careers inbox.
@@ -8,6 +8,7 @@ The Sunyaverse website, **sunya-verse.com**, built with Next.js (App Router). It
   - hello@sunyaverse.com.au
   - +61 451 996 409
   - careers@sunyaverse.com.au
+  - support@sunyaverse.com.au
 
 ## Run it on your computer
 
@@ -43,15 +44,15 @@ If no key is set, the form shows visitors your email address and phone number in
 1. Put this folder in a GitHub repository.
 2. Go to https://vercel.com, choose **New Project**, then import the repository. Vercel detects Next.js automatically.
 3. Add the environment variables from `.env.example` under **Settings → Environment Variables**.
-4. Add your domain, sunya-verse.com, under **Settings → Domains**, and update your DNS as Vercel shows you.
+4. Add your domain, sunyaverse.com.au, under **Settings → Domains**, and update your DNS as Vercel shows you.
 
-After launch, submit `https://sunya-verse.com/sitemap.xml` in Google Search Console.
+After launch, submit `https://sunyaverse.com.au/sitemap.xml` in Google Search Console.
 
 ## Where to edit things
 
 | What | File |
 |---|---|
-| Email, phone, Cal.com settings | `lib/site.js` |
+| Website address, emails, phone, Cal.com settings | `lib/site.js` |
 | Service pages (copy, FAQs, SEO) | `lib/services.jsx` |
 | Insights articles | `lib/articles.jsx` |
 | Contact page FAQs | `lib/contact-faqs.js` |

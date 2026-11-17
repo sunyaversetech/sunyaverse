@@ -95,6 +95,13 @@ export default function ContactPage() {
               <span className="val">Monday to Friday, 9am to 5pm AEST</span>
             </div>
             <div className="cline">
+              <span className="eyebrow">IT support</span>
+              <span className="val">
+                <a href={`mailto:${CONTACT.supportEmail}`}>{CONTACT.supportEmail}</a>
+              </span>
+              <CopyButton text={CONTACT.supportEmail} />
+            </div>
+            <div className="cline">
               <span className="eyebrow">Careers</span>
               <span className="val">
                 <a href={`mailto:${CONTACT.careersEmail}`}>{CONTACT.careersEmail}</a>

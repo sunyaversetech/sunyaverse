@@ -5,7 +5,7 @@ import { pageMetadata, pageGraph } from "@/lib/seo";
 const PAGE = {
   path: "/terms/",
   title: "Website Terms of Use | Sunyaverse",
-  description: "The terms that apply to using the Sunyaverse website, sunya-verse.com, operated by Sunyaverse Pty Ltd, Canberra.",
+  description: "The terms that apply to using the Sunyaverse website, sunyaverse.com.au, operated by Sunyaverse Pty Ltd, Canberra.",
 };
 const CRUMBS = [
   ["Home", "/"],
